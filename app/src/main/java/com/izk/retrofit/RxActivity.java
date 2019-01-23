@@ -106,6 +106,7 @@ public class RxActivity extends AppCompatActivity {
           });
 
 
+
     }
 
     //只用 Retrofit 请求
